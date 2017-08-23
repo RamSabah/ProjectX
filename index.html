@@ -135,7 +135,7 @@
          
          var xml,text;
          xml = new XMLHttpRequest();
-         xml.open('GET',"MetaData/1.txt",false);
+         xml.open('GET',"http://appjaeger.de/meta.txt",false);
          xml.send();
          text = xml.responseText;
          document.write(text);
