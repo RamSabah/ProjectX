@@ -1,0 +1,3 @@
+id : 1 ;
+name : Coin ;
+Jear : 1722.
